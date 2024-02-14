@@ -1,0 +1,6 @@
+se a tag ficar vermelha e porque a tag está em desuso
+
+<address> = adiciona o endereço
+
+<style> body{background-color: rgb(0,0,0) } = serve para mudar a cor do site, onde os valores alteram
+o vermelho, verde ou o azul

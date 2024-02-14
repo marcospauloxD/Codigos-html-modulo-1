@@ -1,0 +1,21 @@
+rel="next" = para ir para a proxima pagina
+rel="prev" = para voltar para a pagina anterior
+
+rel="nofollow" = diz para o mecanismo de busca de que você não da um aval
+
+ctrl + space = usa no meio de duas aspas duplas ex: <a href="ctrl + space", caso eu precise acessar um arquivo que esta dentro de uma pasta, assim ele vai achar o caminho da pasta e os arquivos dentro dela
+
+target="_self" = na propria aba
+
+./ = a propria pasta
+../ = a pasta anterior
+
+eu vou conseguir
+
+<a href="#"></a> = caso ainda não tenha um link e so colocar uma # significa que tem um link vazio
+
+<a href="Livro/Livro001.pdf" download="Livro001" type="application/pdf" = para conseguir fazer o download de arquivos pdf, na aula não conseguiu baixar o arquivo, mas o navegador conseguiu ler o arquivo e dava para baixar direto do navegador
+
+<a href="Livro/Livro001.zip"dowload="Livro001" type="application/zip">Livro compactado em ZIP</a> = nesse aqui conseguimos baixar o livro compactado em formato zip, direto sem precisar que o navegador leia o pdf
+
+https://www.iana.org/assignments/media-types/media-types.xhtml = site que mostra como baixar

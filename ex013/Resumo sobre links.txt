@@ -1,0 +1,6 @@
+<a> = uma tag de ancora, você adiciona um link de um site dentro de uma palavra 
+
+target="_blank" = faz com que seja aberta uma nova guia do link em que o usuario irá clicar
+sem que a minha pagina seja fechada
+
+rel="external" = indica para o navegador que esse link é do tipo externo, que vai para fora do meu site

@@ -1,0 +1,7 @@
+br = serve para fazer uma quebra de linha
+
+&lt;p&gt; = do par de 
+        tags <p> e </p> = serve para escrever <p> sem precisar virar uma função
+
+&lt; = < menor que em ingles
+&gt; = > maior que em ingles

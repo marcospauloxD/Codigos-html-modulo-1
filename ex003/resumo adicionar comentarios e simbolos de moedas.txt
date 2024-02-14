@@ -1,0 +1,27 @@
+<!----> = serve para adicionar comentarios
+
+&reg; = simbolo de marca registrada
+
+&copy; = simbolo de copyrigth
+
+&trade; = adicionar o simbolo tm
+
+&euro; = simbolo da moeda euro
+
+&pound; = simbolo da moeda libra
+
+&yen; = simbolo da moeda yen 
+
+&cent; = simbolo da moeda EUA
+
+&delta; = simbolo do delta minusculo, &Delta = simbolo do delta maiusculo
+
+&uparrow; = simbolo da seta para cima, &uarr; é a forma simplificada
+
+#mais simbolos e so pesquisar por misc simbols
+
+simbolos para emoji sempre começam com &#x: ex: &#x1F47B; esse e o emoji ghost, &#x1F480; emoji da caveira, emojipedia
+é um site com varios emojis
+
+
+

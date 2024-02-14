@@ -1,0 +1,7 @@
+favicon= é o logo que cima la em cima perto do nome do site, ex =  o logo do youtube ou do google
+
+iconarchive = site que contem varios icones, e bom baixar o arquivo no formato .icon
+
+favicon.cc é um site em que você pode criar seu proprio icone
+
+favicon.io site em que tambem pode se criar icones

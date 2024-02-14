@@ -1,0 +1,36 @@
+<ol> = order list = seria uma lista
+
+<li> = list item, seria os itens da lista
+</li>= e opcional, não precisa fechar o item da lista
+
+<ol type="1"> e para indicar o tipo da lista, tipo 1 e o tipo númerico
+tambe tem o A, que e em letras maiusculas, o I que e em algarismos romanos 
+
+<ol type="1" start="4"> =  start inicia a lista apartir do número 4
+
+
+<ul> = lista não ordenada
+
+<ul type="disc"> = tipo de lista em bolinhas pretas
+<ul type="circle"> = uma bolinha com um circulo branco no meio
+<ul type="square"> = um quadrado negro
+
+<ol>
+   <li>Meus jogos</li>
+   <ol>
+   <li>Mario
+   <li>Final Fantasy
+serve para criar uma lista, adicionar um elemento nesta lista e criar uma lista para esse elemento
+
+<ul>
+<ul>
+<ul>
+
+posso segurar alt e ir apertando dentro de cada ul e posso alterar todos ao mesmo tempo
+
+<dl> = definition list = lista de definição
+  <dt> = termo
+  <dd> = descrição
+
+
+

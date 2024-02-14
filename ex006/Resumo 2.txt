@@ -1,0 +1,10 @@
+img = para carregar arquivos de imagens, depois e so apertar no meio das aspas, segurar ctrl e apertar na 
+barra de espaço que ira aparecer os nomes das imagens que podem ser carregadas.
+
+o source seria a parte para carregar a imagem, e o alt e para adicionar uma explicação do que é, basicamente
+uma descrição
+
+img src=imagens/ e para carregar imagens de dentro de uma pasta 
+
+img src https://cdn.iconscout.com/icon/free/png-256/free-js-61-1127937.png, tambem posso passar o link de uma
+imagem para ser carregada no meu codigo, e caso se o servidor que contem essa imagem caia, essa imagem vai desaparecer

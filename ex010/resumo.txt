@@ -1,0 +1,37 @@
+tag <b> = serve para adicionar alguma palavra em negrito
+
+tag b e uma tag não semantica que não tem significado, só tem forma
+
+<STRONG> = Usado para dar destaque a um termo forte ou de destaque
+
+<i> = adiciona o termo em italico
+
+ctrl + shift + p = envolver com abreviação = enter = e escolho o termo, pode ser p para um paragrafo, i para colocar a palavra em negrito e por ai vai
+
+tag MARK =  criar um marca textos
+
+<mark style="background-color: aqua;"></mark> = serve para mudar a cor do marcador de texto
+
+<style> 
+	mark{
+		background-color: aqua
+
+
+}
+</style>
+
+isso faz com mude a cor dos marks, caso eu tenha muitos marks dentro do codigo, posso mudar a cor de todos
+de uma so vez, mas e claro para um unica cor
+
+
+del = ele risca o texto, no caso o texto ainda aparece mas fica com uma linha no meio
+
+u ou ins = deixa o texto sublinhado
+
+sup = subscrito o que deixa algo em cima
+
+sub = deixa algo para baixo
+
+
+
+

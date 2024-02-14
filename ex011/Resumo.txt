@@ -1,0 +1,18 @@
+code = deixa a fonte mono espaçada, deixando o mesmo espaço para cada letra
+
+<pre>
+	<code>
+o pre serve para que os espaços de identação sejam considerados no texto
+
+shift + tab = ele tira alguns espaços de tabulação do codigo
+
+q = e um tag de citação que adiciona aspas ao texto em que você esta marcando
+
+blockquote = serve para colocar uma citação
+
+blockquote cite = "" = serve para adicionar uma url para site que voce esta usando como referencia
+
+abbr = adiciona meio que uma descrição a abreviação
+
+<bdo dir="rlt">e aqui fica a palavra que você quer inverter</bdo>
+rtl = right to left

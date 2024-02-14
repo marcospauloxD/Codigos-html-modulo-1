@@ -1,0 +1,5 @@
+h1 é uma tag para escrever um titulo
+
+p é para escrever coisas
+
+e hr e para colocar uma linha horizontal
